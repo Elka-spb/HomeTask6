@@ -1,0 +1,15 @@
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.csproj.AssemblyReference.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.AssemblyInfoInputs.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.AssemblyInfo.cs
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.csproj.CoreCompileInputs.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\bin\Debug\net7.0\Площадь треугольника.exe
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\bin\Debug\net7.0\Площадь треугольника.deps.json
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\bin\Debug\net7.0\Площадь треугольника.runtimeconfig.json
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\bin\Debug\net7.0\Площадь треугольника.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\bin\Debug\net7.0\Площадь треугольника.pdb
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\refint\Площадь треугольника.dll
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.pdb
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\Площадь треугольника.genruntimeconfig.cache
+C:\Users\elkal\Desktop\Обучение GB\Знакомство с C#\Семинары\Семинар 6\Площадь треугольника\obj\Debug\net7.0\ref\Площадь треугольника.dll
